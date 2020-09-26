@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nba</string>
+    <string name="top_10_cestinhas">Top 10 cestinhas</string>
+    <string name="top_10_mvps">Top 10 MVPS</string>
+    <string name="g_o_a_t">G.O.A.T</string>
+    <string name="jogador_mais_campe_o_da_liga">jogador mais campeão da liga</string>
+    <string name="nba">NBA</string>
+    <string name="top_5_times_com_mais_titulos_da_nba">top 5 tImes com mais titulos da NBA</string>
+    <string name="to_testando_seu_fdp">to testando seu fdp</string>
+    <string name="textview">TextView</string>
+    <string name="teste">teste</string>
+    <string name="sua_localizacao">sua localizacao</string>
+    <string name="posi_o_atual">posição atual</string>
+    <string name="top_10_jogadores">top 10 jogadores</string>
+    <string name="_6_lugar">6°lugar</string>
+    <string name="_10_lugar">10°lugar</string>
+    <string name="_4_lugar">4°lugar</string>
+    <string name="_2_lugar">2°lugar</string>
+    <string name="seu_top_10_cestinhas">seu top 10 cestinhas:</string>
+    <string name="_9_lugar">9°lugar</string>
+    <string name="_1_lugar">1°lugar</string>
+    <string name="_7_lugar">7°lugar</string>
+    <string name="_8_lugar">8°lugar</string>
+    <string name="_3_lugar">3°lugar</string>
+    <string name="_5_lugar">5°lugar</string>
+    <string name="boston_celtics">Boston Celtics</string>
+    <string name="titulos_mundiais">titulos mundiais:</string>
+    <string name="_17_titulos">17 titulos</string>
+
+</resources>
